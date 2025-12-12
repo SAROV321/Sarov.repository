@@ -1,1 +1,4 @@
 a = 8
+
+nums = [3, 7, 2, 9]
+print(sum(nums))
